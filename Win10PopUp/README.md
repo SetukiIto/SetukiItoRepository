@@ -34,7 +34,7 @@ Microsoftのみんなには内緒だよ。
 
 ## Author
 
-[@b4b4r07](https://twitter.com/setuphelt)
+[@setuphelt](https://twitter.com/setuphelt)
 
 ## License
 
