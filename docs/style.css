@@ -1,40 +1,11 @@
-/*login.phpのスタイルを定義するソース*/
-
-body,p,form,input{margin: 0}
-#form{
-    width: 400px;
-    margin: 30px auto;
-    padding: 20px;
-    border: 1px solid #555;
-    }
-
-form p{
-    font-size: 14px;
-    }
-
-form h4{
-    color: #ff0000;
-    }
-
-.form-title{
+form{
     text-align: center;
-    }
+}
 
-.id,.pass{
-    margin-bottom: 20px;
-    }
-    
-input[type="id"],
-input[type="pass"] {
-    width: 300px;
-    padding: 4px;
+p{
     font-size: 14px;
-    }
-    
-.submit{
-    text-align: right;
-    }
+}
 
-.submit2{
-    text-align: left;
-    }
+h4{
+    color: #ff0000;
+}
