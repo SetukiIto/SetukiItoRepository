@@ -26,7 +26,7 @@ Microsoftのみんなには内緒だよ。
 
 ## Installation
 
-    $ git clone https://github.com/SetukiIto/SetukiItoRepository/Win10PopUp
+    $ git clone https://github.com/SetukiIto/SetukiItoRepository.git
 
 ## Anything Else
 
